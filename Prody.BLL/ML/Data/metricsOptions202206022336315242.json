@@ -1,0 +1,1 @@
+{"MatrixColumnIndexColumnName":"ProductIDEncoded","MatrixRowIndexColumnName":"CombinedProductIDEncoded","LabelColumnName":"CombinedProductID","LossFunction":12,"Lambda":0.05,"ApproximationRank":8,"NumberOfIterations":80,"LearningRate":0.1,"Alpha":0.005,"C":9.999999974752427E-07,"NumberOfThreads":null,"Quiet":false,"NonNegative":false}

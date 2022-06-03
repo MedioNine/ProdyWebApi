@@ -1,0 +1,6 @@
+restapifacade
+
+magazine ( name).get().parse()
+
+
+

@@ -1,0 +1,4 @@
+FROM WebApi root:
+
+dotnet ef --startup-project Prody.Api/Prody.Api.csproj migrations add NAME-p Prody.DAL/Prody.DAL.csproj
+dotnet ef --startup-project Prody.Api/Prody.Api.csproj database update -p Prody.DAL/Prody.DAL.csproj
